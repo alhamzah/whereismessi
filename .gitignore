@@ -1,0 +1,5 @@
+*.swp
+*.pyc
+.ipynb_checkpoints
+**/.jupyter
+**/.DS_STORE
