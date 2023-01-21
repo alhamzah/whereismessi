@@ -4,7 +4,7 @@ SDAIA Smartathon Challenge 2023
 
 # Pothole Detector Demo
 
-You can see our pothole detector in action [here](https://drive.google.com/file/d/1JNgdzlMls3zSHuT-1xMyhmUg-zViEA3t/view?usp=sharing) 
+You can see our pothole detector in action [here](https://www.youtube.com/embed/hjwStrxPk9Y) 
 
 # Datasets
 
