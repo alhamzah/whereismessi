@@ -12,7 +12,7 @@ The datasets used to train the models can be found [here](https://drive.google.c
 
 # Model weights
 
-TODO
+The model weights can be found [here](https://drive.google.com/drive/folders/1fMcpEK5xWA-J3CkYtQLVfOQTyV1WTP2O?usp=sharing) 
 
 # Inference
 
