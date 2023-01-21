@@ -4,13 +4,15 @@ SDAIA Smartathon Challenge 2023
 
 # Pothole Detector Demo
 
-A video of our pothole detector in action can be found [here](
+TODO
 
 # Datasets
 
 The datasets used to training the models can be found [here](https://drive.google.com/drive/folders/11L_LIEgdhYwhXSZ2Z62EUtn6oF644ras?usp=sharing)
 
 # Model weights
+
+TODO
 
 # Inference
 
